@@ -1,1 +1,1 @@
-## Activity of Java Course from Udemy (Nelio Alves/DevSuperior) - working with Interfaces.
+## Exercise of Java Course from Udemy (Nelio Alves/DevSuperior) - working with Interfaces.
